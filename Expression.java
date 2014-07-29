@@ -1,4 +1,4 @@
-public class Expression{
+public abstract class Expression{
 	public String toString(){
 		return null;
 	}
