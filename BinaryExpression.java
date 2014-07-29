@@ -1,4 +1,4 @@
-public class BinaryExpression extends Expression{
+public abstract class BinaryExpression extends Expression{
 	public Expression left(){
 		return null;
 	}
